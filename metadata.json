@@ -1,0 +1,6 @@
+{
+  "name": "World Prototype",
+  "description": "A 3D open-world prototype with smooth terrain generation using React Three Fiber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
